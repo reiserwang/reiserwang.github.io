@@ -1,2 +1,3 @@
 ## Reiser Wang
--  Linkedin: https://www.linkedin.com/in/reiserwang/
+<img src="https://avatars2.githubusercontent.com/u/19819980?s=460&v=4/>
+-  [Linkedin](https://www.linkedin.com/in/reiserwang/)
